@@ -1,5 +1,5 @@
 # Material.Creator
-A tool to help you create JSON files for SuperBMD. More specificaly, `[modelname]_materials.json` and `[modelname]_tex_headers.json`
+A tool to help you create and merge JSON files for SuperBMD. More specificaly, `[modelname]_materials.json` and `[modelname]_tex_headers.json`
 ## Ultilities 
 | Actions | Merge | Select | Save |
 | --- | --- | --- | --- |
