@@ -1,5 +1,5 @@
 # Material.Creator
-A tool to help you create JSON files for SuperBMD. More specificaly, `material.json` and `texheader.json`
+A tool to help you create JSON files for SuperBMD. More specificaly, `[modelname]_material.json` and `[modelname]_texheader.json`
 ## Ultilities & How to Use
 Material.Creator can merge, select and save JSON files.
 Simply drop the Material or Texture Header files into the program and select the materials you want from each file. For example:
