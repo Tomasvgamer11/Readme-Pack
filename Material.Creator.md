@@ -1,5 +1,5 @@
 # Material.Creator
-A tool to help you create JSON files for SuperBMD. More specificaly, `[modelname]_material.json` and `[modelname]_texheader.json`
+A tool to help you create JSON files for SuperBMD. More specificaly, `[modelname]_materials.json` and `[modelname]_tex_headers.json`
 ## Ultilities 
 | Actions | Merge | Select | Save |
 | --- | --- | --- | --- |
@@ -19,4 +19,9 @@ Select material(s) from CloudClimbMountainPlanet.
 [6] CloudValleyLotus_00_v
 
 Input: 1 2 3 4 5 6
+```
+Then, input the name for your new JSON. For Example:
+```
+Type in a name for the materials.json file to be output.
+Input: GrassPlatform_materials.json
 ```
